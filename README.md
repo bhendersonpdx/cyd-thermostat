@@ -1,4 +1,12 @@
 # cyd-thermostat
+My first offical fork! My goal is to build off what GuySie build to make a control panel for my 3d printer enclosure.
+
+# Goals
+- Via GPIO control two relays, LED lights and on/off for the small space heater. 
+- Use a DS1808 for local temp monitoring.
+- Have the fire button be a heat system toggle.
+- Have the power button be a toggle for the LED lights.
+
 ESPHome/Home Assistant based thermostat controller for Cheap Yellow Display (CYD).
 
 ![cyd-thermostat in action!](https://raw.githubusercontent.com/GuySie/cyd-thermostat/main/cyd-thermostat.jpg)
