@@ -1,4 +1,4 @@
-# cyd-thermostat
+# 3d Printer Enclosure Control
 My first offical fork! My goal is to build off what GuySie build to make a control panel for my 3d printer enclosure.
 
 # Goals
@@ -7,6 +7,7 @@ My first offical fork! My goal is to build off what GuySie build to make a contr
 - Have the fire button be a heat system toggle.
 - Have the power button be a toggle for the LED lights.
 
+# cyd-thermostat
 ESPHome/Home Assistant based thermostat controller for Cheap Yellow Display (CYD).
 
 ![cyd-thermostat in action!](https://raw.githubusercontent.com/GuySie/cyd-thermostat/main/cyd-thermostat.jpg)
